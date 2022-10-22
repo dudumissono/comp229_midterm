@@ -1,4 +1,4 @@
-# COMP229-F2019-MidTerm Test
+# COMP229-F2022-MidTerm Eduardo Missono - 301200673
 
 ## Welcome to the MidTerm Project - the Favourite Book List App
 
